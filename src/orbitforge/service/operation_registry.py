@@ -10,6 +10,7 @@ OPERATIONS = {
     'link.budget': 'Evaluate radio-frequency link margin',
     'attitude.pointing': 'Evaluate spacecraft pointing geometry',
     'conjunction.screen': 'Screen close approaches and collision risk',
+    'conjunction.avoid': 'Search and rank collision avoidance maneuvers',
     'ephemeris.interpolate': 'Interpolate position and velocity ephemerides',
     'mission.windows': 'Combine mission opportunity windows',
     'coverage.evaluate': 'Evaluate constellation coverage and revisit',
